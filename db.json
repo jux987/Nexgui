@@ -1,13 +1,13 @@
 {
 	"AllNum": {
 		"one": {
-			"url": "https://www.jiliasia.com/?pid=dongfang66",
-			"isToPage": true,
-      "plan":"B"
+			"url": "",
+			"isToPage": false,
+      "plan":"A"
 		},
 		"two": {
-			"url": "https://www.bwinph.com/?uagt=wkapp003&path=root",
-			"isToPage": true,
+			"url": "",
+			"isToPage": false,
       "plan":"A"
 		},
 		"three": {
