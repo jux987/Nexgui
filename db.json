@@ -1,9 +1,9 @@
 {
 	"AllNum": {
 		"one": {
-			"url": "https://www.bwinph.com/?uagt=wkapp003&path=root",
-			"isToPage": true,
-      "plan":"B"
+			"url": "",
+			"isToPage": false,
+      "plan":"A"
 		},
 		"two": {
 			"url": "",
@@ -16,14 +16,14 @@
       "plan":"A"
 		},
 		"four": {
-			"url": "https://www.bwinph.com/?uagt=wkapp003&path=root",
-			"isToPage": true,
-      "plan":"B"
+			"url": "",
+			"isToPage": false,
+      "plan":"A"
 		},
 		"five": {
-			"url": "https://www.bwinph.com/?uagt=wkapp003&path=root",
-			"isToPage": true,
-      "plan":"B"
+			"url": "",
+			"isToPage": false,
+      "plan":"A"
 		},
 		"six": {
 			"url": "",
